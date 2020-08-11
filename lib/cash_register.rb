@@ -6,4 +6,4 @@ class CashRegister
   
   
   
-  end
+end
